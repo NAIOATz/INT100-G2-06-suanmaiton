@@ -3,7 +3,7 @@
 โอ๊ต แนะนำ โน๊ต ![alt text](...)
 **ชื่อเล่น** : > โน๊ต <br />
 **ชื่อจริง** : Chayanon Maksakarn  <br />
-**วันเกิด** : 16 เมษายน 2548
+**วันเกิด** : 16 เมษายน 2548 <br />
 **งานอดิเรก** : วาดรูป โค้ดดิ้ง <br />
 **Social** : https://www.instagram.com/_mat7cha?igsh=MWF1ZG1zdmFqeXM2Zw== <br />
 **อาหารที่ชอบ** : สเต็กหมู <br />
@@ -17,7 +17,7 @@
 โน๊ต แนะนำ โอ๊ต ![alt text](...)
 ชื่อเล่น : อ๋อง <br />
 ชื่อจริง : วรเทพ เทียนอร่าม <br />
-วันเกิด :
+วันเกิด : <br />
 งานอดิเรก : เล่นเกม <br />
 Social: https://www.instagram.com/ongkrub_04 <br />
 อาหารที่ชอบ : กะเพราะ <br />
@@ -31,7 +31,7 @@ Social: https://www.instagram.com/ongkrub_04 <br />
 ภูมิ แนะนำ บอส ![alt text](...)
 ชื่อเล่น : อ๋อง <br />
 ชื่อจริง : วรเทพ เทียนอร่าม <br />
-วันเกิด :
+วันเกิด : <br />
 งานอดิเรก : เล่นเกม <br />
 Social: https://www.instagram.com/ongkrub_04 <br />
 อาหารที่ชอบ : กะเพราะ <br />
@@ -45,7 +45,7 @@ Social: https://www.instagram.com/ongkrub_04 <br />
 บอส แนะนำ ภูมิ ![alt text](...)
 ชื่อเล่น : อ๋อง <br />
 ชื่อจริง : วรเทพ เทียนอร่าม <br />
-วันเกิด :
+วันเกิด : <br />
 งานอดิเรก : เล่นเกม <br />
 Social: https://www.instagram.com/ongkrub_04 <br />
 อาหารที่ชอบ : กะเพราะ <br />
@@ -59,7 +59,7 @@ Social: https://www.instagram.com/ongkrub_04 <br />
 อ๋อง แนะนำ โปรแกรม ![alt text](...)
 ชื่อเล่น : อ๋อง <br />
 ชื่อจริง : วรเทพ เทียนอร่าม <br />
-วันเกิด :
+วันเกิด : <br />
 งานอดิเรก : เล่นเกม <br />
 Social: https://www.instagram.com/ongkrub_04 <br />
 อาหารที่ชอบ : กะเพราะ <br />
@@ -73,7 +73,7 @@ Social: https://www.instagram.com/ongkrub_04 <br />
 โปรแกรม แนะนำ อ๋อง ![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/main/IMG/Ong.jpg?raw=true)
 ชื่อเล่น : อ๋อง <br />
 ชื่อจริง : วรเทพ เทียนอร่าม <br />
-วันเกิด :
+วันเกิด : <br />
 งานอดิเรก : เล่นเกม <br />
 Social: https://www.instagram.com/ongkrub_04 <br />
 อาหารที่ชอบ : กะเพรา <br />

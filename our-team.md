@@ -1,4 +1,5 @@
-บอส แนะนำ ภูมิ ![alt text](...)
+บอส แนะนำ ภูมิ ![alt text](![22121351](https://github.com/user-attachments/assets/5cb3ffeb-4e8d-462f-b15b-c06d3cb81c14)
+)
 ชื่อเล่น : ภูมิ <br />
 ชื่อจริง : ศุภฤกษ์ กมลเนตร <br />
 วันเกิด : 8มิถุนายน2549 <br />

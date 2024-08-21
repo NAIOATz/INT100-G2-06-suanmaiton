@@ -1,6 +1,6 @@
 
 ![alt text](IMG/IMG_20240821_172043.png)
-1.ชื่อ : Chayanon Maksakarn 
+1.ชื่อ : Chayanon Maksakarn <br />
 2.ชื่อเล่น : โน๊ต
 3.เกิดวันที่ : 16 เมษายน
 4.งานอดิเรก : วาดรูป โค๊ดดิ้ง

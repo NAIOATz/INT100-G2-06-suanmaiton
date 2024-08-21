@@ -61,7 +61,7 @@ Social: https://www.instagram.com/ongkrub_04 <br />
 ชื่อจริง : เศรษฐดา พรพิรานนท์ <br />
 วันเกิด : 30/11/2548 <br />
 งานอดิเรก : เล่นเกม ดูyoutube <br />
-Social: [https://www.instagram.com/ongkrub_04](https://www.facebook.com/settada.pornpiranont) <br />
+Social: https://www.facebook.com/settada.pornpiranont <br />
 อาหารที่ชอบ : อาหารญี่ปุ่น <br />
 ความฝัน : อยากทำงานบริษัทและทำyoutube <br />
 ชอบกีฬาอะไร : วอลเลย์บอล <br />

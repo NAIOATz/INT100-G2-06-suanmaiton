@@ -1,3 +1,4 @@
+
 ## Introduction
 โอ๊ต แนะนำ โน๊ต ![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/woratep-112/IMG/WIN_25670821_17_21_57_Pro.jpg?raw=true)
 ชื่อเล่น : อ๋อง <br />
@@ -76,10 +77,4 @@ Social: https://www.instagram.com/ongkrub_04 <br />
 ความสามารถพิเศษ : พูดเก่ง <br />
 ชอบสีอะไร : ฟ้า <br />
 สัตว์ที่ชอบ : แมว <br />
-
-
-
-
-
-
 

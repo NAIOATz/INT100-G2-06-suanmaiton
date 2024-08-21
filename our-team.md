@@ -56,7 +56,7 @@ Social: https://www.instagram.com/ongkrub_04 <br />
 ชอบสีอะไร : ฟ้า <br />
 สัตว์ที่ชอบ : แมว <br />
 
-อ๋อง แนะนำ โปรแกรม ![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/woratep-112/IMG/Program.jpg?raw=true)
+อ๋อง แนะนำ โปรแกรม ![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/woratep-112/IMG/Program.jpg?raw=true) <br />
 ชื่อเล่น : โปรแกรม <br />
 ชื่อจริง : เศรษฐดา พรพิรานนท์ <br />
 วันเกิด : 30/11/2548 <br />

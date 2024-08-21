@@ -1,6 +1,6 @@
 
 ## Introduction
-โอ๊ต แนะนำ โน๊ต ![Note's pic](...) <br />
+โอ๊ต แนะนำ โน๊ต ![Note's pic](IMG/note.jpg) <br />
 **ชื่อเล่น** : โน๊ต <br />
 **ชื่อจริง** : Chayanon Maksakarn  <br />
 **วันเกิด** : 16 เมษายน 2548 <br />

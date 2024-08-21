@@ -1,6 +1,6 @@
 
 ## Introduction
-โอ๊ต แนะนำ โน๊ต <br />
+**โอ๊ต แนะนำ โน๊ต** <br />
 ![Note's pic](IMG/note.jpg) <br />
 **ชื่อเล่น** : โน๊ต <br />
 **ชื่อจริง** : Chayanon Maksakarn  <br />

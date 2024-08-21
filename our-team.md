@@ -1,6 +1,5 @@
-
 ## Introduction
-โอ๊ต แนะนำ โน๊ต ![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/woratep-112/IMG/WIN_25670821_17_21_57_Pro.jpg?raw=true)
+โอ๊ต แนะนำ โน๊ต ![alt text](...)
 ชื่อเล่น : อ๋อง <br />
 ชื่อจริง : วรเทพ เทียนอร่าม <br />
 งานอดิเรก : เล่นเกม <br />
@@ -13,7 +12,7 @@ Social: https://www.instagram.com/ongkrub_04 <br />
 ชอบสีอะไร : ฟ้า <br />
 สัตว์ที่ชอบ : แมว <br />
 
-โน๊ต แนะนำ โอ๊ต ![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/woratep-112/IMG/WIN_25670821_17_21_57_Pro.jpg?raw=true)
+โน๊ต แนะนำ โอ๊ต ![alt text](...)
 ชื่อเล่น : อ๋อง <br />
 ชื่อจริง : วรเทพ เทียนอร่าม <br />
 งานอดิเรก : เล่นเกม <br />
@@ -26,7 +25,7 @@ Social: https://www.instagram.com/ongkrub_04 <br />
 ชอบสีอะไร : ฟ้า <br />
 สัตว์ที่ชอบ : แมว <br />
 
-ภูมิ แนะนำ บอส ![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/woratep-112/IMG/WIN_25670821_17_21_57_Pro.jpg?raw=true)
+ภูมิ แนะนำ บอส ![alt text](...)
 ชื่อเล่น : อ๋อง <br />
 ชื่อจริง : วรเทพ เทียนอร่าม <br />
 งานอดิเรก : เล่นเกม <br />
@@ -39,7 +38,7 @@ Social: https://www.instagram.com/ongkrub_04 <br />
 ชอบสีอะไร : ฟ้า <br />
 สัตว์ที่ชอบ : แมว <br />
 
-บอส แนะนำ ภูมิ ![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/woratep-112/IMG/WIN_25670821_17_21_57_Pro.jpg?raw=true)
+บอส แนะนำ ภูมิ ![alt text](...)
 ชื่อเล่น : อ๋อง <br />
 ชื่อจริง : วรเทพ เทียนอร่าม <br />
 งานอดิเรก : เล่นเกม <br />
@@ -52,7 +51,7 @@ Social: https://www.instagram.com/ongkrub_04 <br />
 ชอบสีอะไร : ฟ้า <br />
 สัตว์ที่ชอบ : แมว <br />
 
-อ๋อง แนะนำ โปรแกรม ![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/woratep-112/IMG/WIN_25670821_17_21_57_Pro.jpg?raw=true)
+อ๋อง แนะนำ โปรแกรม ![alt text](...)
 ชื่อเล่น : อ๋อง <br />
 ชื่อจริง : วรเทพ เทียนอร่าม <br />
 งานอดิเรก : เล่นเกม <br />
@@ -65,16 +64,15 @@ Social: https://www.instagram.com/ongkrub_04 <br />
 ชอบสีอะไร : ฟ้า <br />
 สัตว์ที่ชอบ : แมว <br />
 
-โปรแกรม แนะนำ อ๋อง ![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/woratep-112/IMG/WIN_25670821_17_21_57_Pro.jpg?raw=true)
+โปรแกรม แนะนำ อ๋อง ![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/main/IMG/Ong.jpg?raw=true)
 ชื่อเล่น : อ๋อง <br />
 ชื่อจริง : วรเทพ เทียนอร่าม <br />
 งานอดิเรก : เล่นเกม <br />
 Social: https://www.instagram.com/ongkrub_04 <br />
-อาหารที่ชอบ : กะเพราะ <br />
+อาหารที่ชอบ : กะเพรา <br />
 ความฝัน : นักบิน <br />
 ชอบกีฬาอะไร : แบด <br />
 จบมาจาก รร.อะไร : โรงเรียนเตรียมอุดมศึกษาพัฒนาการ ปทุมธานี <br />
 ความสามารถพิเศษ : พูดเก่ง <br />
 ชอบสีอะไร : ฟ้า <br />
 สัตว์ที่ชอบ : แมว <br />
-

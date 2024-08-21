@@ -30,7 +30,7 @@
 
 **ภูมิ แนะนำ บอส** ![alt text](IMG/21E877E9-D90D-42A4-A617-A9A6F5375ADF.jpeg)
 **ชื่อเล่น** : บอส <br />
-**ชื่อจริง** : วรเทพ เทียนอร่าม <br />
+**ชื่อจริง** : ชัยบดินทร์ แซ่จิ๋ว <br />
 **วันเกิด** : 1 ธันวาคม 2547 <br />
 **งานอดิเรก** : ฟังเพลง ร้องเพลง <br />
 **Social** : https://www.instagram.com/chaibxdin?igsh=MnVkaWM3dDh1MGdr&utm_source=qr <br />

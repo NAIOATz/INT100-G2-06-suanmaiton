@@ -1,1 +1,3 @@
-(IMG/Age.png) <br />
+# **User-persona**
+<img src="../IMG/Age.png">
+

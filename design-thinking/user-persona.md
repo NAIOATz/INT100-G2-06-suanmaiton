@@ -5,6 +5,7 @@ OCCUPATATION  : RETIRED <br />
 STATUS        : MARRIED <br />
 LOCATION      : LOCAL PEOPLE <br />
 
+
 **Goals**
 
 ◉ มาวิ่งออกกำลังกายกับเพื่อนๆ เพื่อบริหารสุขภาพในสวนธนฯช่วงเช้า

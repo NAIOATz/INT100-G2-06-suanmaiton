@@ -1,3 +1,4 @@
 # **User-persona**
 <img src="../IMG/Age.png">
 <img src="../IMG/ลุงพี1.png">
+<img src="../IMG/nong B.jpg">

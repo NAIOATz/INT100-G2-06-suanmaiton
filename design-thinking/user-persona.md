@@ -1,5 +1,5 @@
 # **User-persona**
-<img src="../IMG/Age(1).png">
+<img src="../IMG/Age (1).png">
 AGE           : 75 <br />
 OCCUPATATION  : RETIRED <br />
 STATUS        : MARRIED <br />

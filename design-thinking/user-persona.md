@@ -42,8 +42,7 @@ LOCATION      : LOCAL PEOPLE <br />
 ◉ อยากให้มีจุดยืมไม้ปิงปอง
 
 <img src="../IMG/nong B.jpg">
-# **User-persona**
-<img src="../IMG/nong b.jpg">
+
 AGE           : 15 <br />
 STATUS        : Single <br />
 LOCATION      : LOCAL PEOPLE <br />

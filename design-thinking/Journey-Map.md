@@ -1,2 +1,3 @@
-##Journey Map
-![journeymap](IMG/journey map คุณยาย.png)
+## Journey Map
+
+![journeymap](/IMG/journeyMapGrandma.png)

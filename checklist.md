@@ -14,4 +14,3 @@
 - [ ] Prototype
 - [ ] Test script, story telling, storyboard
 - [ ] Feedback matrix from test
-- [x] bra

@@ -49,8 +49,11 @@
 ## Journey-Map
 ต่อมาเราก็ได้สรุปข้อมูลเกี่ยวกับกิจกรรมต่างๆของ user ตั้งแต่ตอนตื่นนอนจนจบวันเพื่อนจะได้เห็นภาพและนำเอาจุดที่ user มีความสุขหรือทุกข์ที่สุดมาทำเป็น Painpoint
 
+**คุณยายนงค์**
 ![alt text](IMG/JourneyMap1.png)
+**คุณลุงพิชิต**
 ![alt text](IMG/JourneyMap2.jpeg)
+**น้องบี**
 ![alt text](IMG/JourneyMap3.jpg)
 
 <hr/>

@@ -35,17 +35,23 @@
 ## Say-Do-Think-Feel
 โดยในช่วงที่เรากำลังสัมภาษณ์ user เราก็ได้เก็บช้อมูลมา ได้รู้ว่า เขาพูดอะไร เขาทำอะไร เขาคิดอะไรอยู่ และเขารู้สึกอย่างไร เราสรุปออกมาได้ดังนี้
 
-![alt text](IMG/Say.jpg)
+![alt text](IMG/Say-Do-Think-Feel1.jpg)
+![alt text](IMG/Say-Do-Think-Feel2.jpg)
+![alt text](IMG/Say-Do-Think-Feel3.jpg)
 
 ## User Personas
 หลังจากรวบรวมข้อมูลของ user แต่ละคนเราก็ได้มาทำเป็น User Personas เพื่อที่จะได้เก็บข้อมูลต่างๆมาวิเคราะห์ได้ง่ายขึ้น
 
-
+![alt text](IMG/UserPersonas1.jpg)
+![alt text](IMG/UserPersonas2.jpg)
+![alt text](IMG/UserPersonas3.jpg)
 
 ## Journey-Map
 ต่อมาเราก็ได้สรุปข้อมูลเกี่ยวกับกิจกรรมต่างๆของ user ตั้งแต่ตอนตื่นนอนจนจบวันเพื่อนจะได้เห็นภาพและนำเอาจุดที่ user มีความสุขหรือทุกข์ที่สุดมาทำเป็น Painpoint
 
-
+![alt text](IMG/JourneyMap1.jpg)
+![alt text](IMG/JourneyMap2.jpg)
+![alt text](IMG/JourneyMap3.jpg)
 
 ## DEFINE
 

@@ -1,18 +1,18 @@
 # Sharing Week 3
 - [x] Interview script
 - [x] What-how-why, say-do-think-feel
-- [ ] What you have inferred as Think-Feel
+- [x] What you have inferred as Think-Feel
 - [x] User persona
 
 # Sharing Week 4
 - [x] Journey map
-- [ ] Identified insights
+- [x] Identified insights
 - [x] PoV statement
-- [ ] Ideate artifacts and final elected idea(s)
+- [x] Ideate artifacts and final elected idea(s)
 
 # Sharing Week 5
-- [ ] Prototype
-- [ ] Test script
-- [ ] story telling
-- [ ] storyboard
+- [x] Prototype
+- [x] Test script
+- [x] story telling
+- [x] storyboard
 - [x] Feedback matrix from test

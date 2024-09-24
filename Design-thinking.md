@@ -112,7 +112,7 @@ Extreme user : คุณยายนงค์
 ## TEST 
 เราได้นำ Prototype ไปที่สวนเพื่อสอบถามกับ user เกี่ยวกับตัว Prototype โดยพวกเราก็มีการทำ storyboard เพื่อเล่าเรื่องและจะทำให้เข้าใจและเห็นภาพในตัวของ Prototype ได้มากขึ้น
 
-
+![alt text](IMG/Storyboard.jpg) <br/>
 
 # Test Script Line Official Account ของสวนธนบุรีรมณ์
 

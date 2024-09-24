@@ -12,5 +12,7 @@
 
 # Sharing Week 5
 - [ ] Prototype
-- [ ] Test script, story telling, storyboard
-- [ ] Feedback matrix from test
+- [ ] Test script
+- [ ] story telling
+- [ ] storyboard
+- [x] Feedback matrix from test

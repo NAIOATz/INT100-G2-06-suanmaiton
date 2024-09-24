@@ -110,8 +110,9 @@ Extreme user : คุณยายนงค์
 ![alt text](IMG/Prototype5.jpg) <br/>
 
 ## TEST 
+เราได้นำ Prototype ไปที่สวนเพื่อสอบถามกับ user เกี่ยวกับตัว Prototype โดยพวกเราก็มีการทำ storyboard เพื่อเล่าเรื่องและจะทำให้เข้าใจและเห็นภาพในตัวของ Prototype ได้มากขึ้น
 
-**Feedback capture matrix**
+
 
 # Test Script Line Official Account ของสวนธนบุรีรมณ์
 
@@ -184,8 +185,7 @@ Extreme user : คุณยายนงค์
 - **Pass/Fail:** 
 
 
-
-
+**Feedback capture matrix**
 
 
 <hr/>

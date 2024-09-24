@@ -57,7 +57,7 @@
 (facebook)https://www.facebook.com/settada.pornpiranont
 
 **โปรแกรม แนะนำ อ๋อง** <br />
-![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/main/IMG/Ong.jpg?raw=true) <br />
+![alt text](https://github.com/NAIOATz/INT100-G6-suanmaiton/blob/main/IMG/ong.jpg?raw=true) <br />
 **ชื่อเล่น** : อ๋อง <br />
 **ชื่อจริง** : วรเทพ เทียนอร่าม <br />
 **วันเกิด** : 29/06/2004 <br />
